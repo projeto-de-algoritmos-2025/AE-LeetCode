@@ -30,6 +30,7 @@ Este trabalho consiste na resolução de quatro exercícios da plataforma LeetCo
 | [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) | Hard     | [clique aqui](https://link-do-video) |
 | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)              | Medium     | [clique aqui](https://link-do-video) |
 | [474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/)                                                                                                                | Medium    | [clique aqui](https://link-do-video) |
+| [879. Profitable Schemes](https://leetcode.com/problems/profitable-schemes/description/) | Hard | [clique aqui](https://link-do-video)
 
 ## Screenshots
 
