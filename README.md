@@ -36,6 +36,7 @@ Este trabalho consiste na resolução de quatro exercícios da plataforma LeetCo
 ## Screenshots
 
 1235. Maximum Profit in Job Scheduling
+
 ![alt text](image.png)
 
 
