@@ -1,10 +1,8 @@
 # Algoritmos Ambiciosos
 
-**Conteúdo da Disciplina**: FGA0124 - PROJETO DE ALGORITMOS - T01  
-
+**Conteúdo da Disciplina**: FGA0124 - PROJETO DE ALGORITMOS - T01
 
 ## Alunos
-
 
 <div align = "center">
 <table>
@@ -14,24 +12,24 @@
   </tr>
 </table>
 
-| Matrícula   | Aluno                             |
-| ----------- | ---------------------------------- |
-| 190084570  | Arthur D'Assumpção Loureiro           |
-| 200017322  | Emerson Luis Teles dos Santos     |
+| Matrícula | Aluno                         |
+| --------- | ----------------------------- |
+| 190084570 | Arthur D'Assumpção Loureiro   |
+| 200017322 | Emerson Luis Teles dos Santos |
+
 </div>
 
-## Sobre 
+## Sobre
+
 Este trabalho consiste na resolução de quatro exercícios da plataforma LeetCode, com diferentes níveis de complexidade, abordando os principais conceitos de Programação Dinâmica.
 
 ## Sobre
 
-| Problema                                 | Dificuldade | Submit        |
-|------------------------------------------|-------------|----------------|
+| Problema                                                                                                              | Dificuldade | Submit                               |
+| --------------------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------ |
 | [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) | Difícil     | [clique aqui](https://link-do-video) |
-| [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)                                         | Difícil     | [clique aqui](https://link-do-video) |
-| -                                        | Difícil     |  [clique aqui](https://link-do-video) |
-
-
+| [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)              | Difícil     | [clique aqui](https://link-do-video) |
+| -                                                                                                                     | Difícil     | [clique aqui](https://link-do-video) |
 
 ## Screenshots
 
@@ -39,31 +37,18 @@ Este trabalho consiste na resolução de quatro exercícios da plataforma LeetCo
 
 ![alt text](image.png)
 
+416. Partition Equal Subset Sum
 
+![alt text](image2.png)
 
+## Instalação
 
+## Uso
 
-## Instalação 
+## Apresentação
 
-
-
-
-
-
-## Uso 
-
-
-
-## Apresentação 
-
-Link da apresentação: 
+Link da apresentação:
 
 <font size="3"><p style="text-align: center">Autor: [Arthur D'Assumpção](https://github.com/ArtAssLou) e [Emerson Teles](https://github.com/ArtAssLou).</p></font>
 
-
-## Outros 
-
-
-
-
-
+## Outros
