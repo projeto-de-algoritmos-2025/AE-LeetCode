@@ -46,6 +46,10 @@ Este trabalho consiste na resolução de quatro exercícios da plataforma LeetCo
 
 ![alt text](image-1.png)
 
+879. Profitable Schemes
+
+![alt text](image-1.png)
+
 ## Instalação
 
 ## Uso
