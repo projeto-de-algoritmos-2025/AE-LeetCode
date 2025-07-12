@@ -28,7 +28,7 @@ Este trabalho consiste na resolução de quatro exercícios da plataforma LeetCo
 | Problema                                 | Dificuldade | Submit        |
 |------------------------------------------|-------------|----------------|
 | [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) | Difícil     | [clique aqui](https://link-do-video) |
-| -                                        | Difícil     | [clique aqui](https://link-do-video) |
+| [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)                                         | Difícil     | [clique aqui](https://link-do-video) |
 | -                                        | Difícil     |  [clique aqui](https://link-do-video) |
 
 
