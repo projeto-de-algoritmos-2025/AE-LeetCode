@@ -23,8 +23,21 @@
 ## Sobre 
 Este trabalho consiste na resolução de quatro exercícios da plataforma LeetCode, com diferentes níveis de complexidade, abordando os principais conceitos de Programação Dinâmica.
 
+## Sobre
+
+| Problema                                 | Dificuldade | Submit        |
+|------------------------------------------|-------------|----------------|
+| [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) | Difícil     | [clique aqui](https://link-do-video) |
+| -                                        | Difícil     | [clique aqui](https://link-do-video) |
+| -                                        | Difícil     |  [clique aqui](https://link-do-video) |
+
+
 
 ## Screenshots
+
+1235. Maximum Profit in Job Scheduling
+![alt text](image.png)
+
 
 
 
